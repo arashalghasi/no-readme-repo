@@ -1,4 +1,4 @@
-// Program.cs - sasso carta forbice tra due giocatori con classe Giocatore e classe Partita
+// Program.cs - sasso carta forbice tra due giocatori con classe Giocatore e classe Partita 
 
 class Giocatore
 {
