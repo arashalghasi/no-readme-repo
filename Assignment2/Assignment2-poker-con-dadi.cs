@@ -1,4 +1,4 @@
-// Program.cs - semplice gioco di poker con 5 dadi e classe Dado
+// Program.cs - semplice gioco di poker con 5 dadi e classe Dado e file program
 
 class Dado
 {
