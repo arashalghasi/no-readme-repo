@@ -1,6 +1,6 @@
 class Giocatore
 {
-	private string nome; // nome del giocatore
+	private string nome; // nome del giocatore 
 	private int punteggio; // punteggio del giocatore
 
 	public Giocatore(string nome) // costruttore della classe Giocatore che prende in ingresso il nome del giocatore
